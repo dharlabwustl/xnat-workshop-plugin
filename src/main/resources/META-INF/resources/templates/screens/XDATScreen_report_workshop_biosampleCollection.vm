@@ -75,7 +75,8 @@ $page.setVlinkColor($ui.vlink)
                     <td>&nbsp;</td>
                     #formLabel("Atul")
                     <td valign="top">
-                        #showBoolean("workshop:biosampleCollection/atul" $item)
+
+                      #showString("workshop:biosampleCollection/atul" $item )
                     </td>
                 </tr>
                 <tr>
