@@ -71,14 +71,7 @@ $page.setVlinkColor($ui.vlink)
                         #showBoolean("workshop:biosampleCollection/csf" $item)
                     </td>
                 </tr>
-                <tr>
-                    <td>&nbsp;</td>
-                    #formLabel("Atul")
-                    <td valign="top">
 
-                      #showString("workshop:biosampleCollection/atul" $item )
-                    </td>
-                </tr>
                 <tr>
 					<td valign="top">
 						#parse("/screens/ReportProjectSpecificFields.vm")
