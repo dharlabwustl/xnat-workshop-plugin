@@ -66,6 +66,11 @@
 							<xs:restriction base="xs:string"/>
 						</xs:simpleType>
 					</xs:element>
+					<xs:element name="ImageBinary" type="xs:base64Binary">
+						<xs:annotation>
+							<xs:documentation>Embedded image.</xs:documentation>
+						</xs:annotation>
+					</xs:element>
 				</xs:sequence>
 			</xs:extension>
 		</xs:complexContent>
