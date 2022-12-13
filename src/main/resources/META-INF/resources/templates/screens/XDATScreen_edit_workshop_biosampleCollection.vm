@@ -103,7 +103,7 @@ window.currentLabel="$!om.getLabel()";
                             <tr>
                                 <td>
 
-                                        <img name="imageBinary" src="">
+                                  <img name="workshop:biosampleCollection/imageBinary"  src="">
 
                                 </td>
 

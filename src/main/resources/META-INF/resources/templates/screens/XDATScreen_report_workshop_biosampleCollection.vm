@@ -92,6 +92,12 @@ $page.setVlinkColor($ui.vlink)
                     </td>
                 </tr>
                 <tr>
+
+                    <td valign="top">
+                       <img name="workshop:biosampleCollection/imageBinary"  src="">
+                    </td>
+                </tr>
+                <tr>
 					<td valign="top">
 						#parse("/screens/ReportProjectSpecificFields.vm")
 					</td>
