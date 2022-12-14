@@ -93,10 +93,10 @@ $page.setVlinkColor($ui.vlink)
                 </tr>
 
                 <tr>
-                    #formLabel("Imagetoupload")
+                    #formLabel("ImageBinary")
                     <td>
 
-                      <img name=imagetoupload src="">
+                      <img name=imageBinary src="">
 
                     </td>
 
