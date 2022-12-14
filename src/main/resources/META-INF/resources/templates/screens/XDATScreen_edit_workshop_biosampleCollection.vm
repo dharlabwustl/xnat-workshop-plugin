@@ -101,9 +101,10 @@ window.currentLabel="$!om.getLabel()";
                           </tr>
 
                             <tr>
+                                #formLabel("Imagetoupload")
                                 <td>
 
-                                  <img name="workshop:biosampleCollection/imageBinary"  src="">
+                                  <img name=imagetoupload src="">
 
                                 </td>
 

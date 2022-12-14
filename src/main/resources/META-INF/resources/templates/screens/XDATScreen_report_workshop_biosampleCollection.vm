@@ -91,10 +91,20 @@ $page.setVlinkColor($ui.vlink)
                         #showString("workshop:biosampleCollection/atul" $item)
                     </td>
                 </tr>
+
+                <tr>
+                    #formLabel("Imagetoupload")
+                    <td>
+
+                      <img name=imagetoupload src="">
+
+                    </td>
+
+                </tr>
                 <tr>
 
                     <td valign="top">
-                       <img name="workshop:biosampleCollection/imageBinary"  src="">
+                       <img  src="">
                     </td>
                 </tr>
                 <tr>
